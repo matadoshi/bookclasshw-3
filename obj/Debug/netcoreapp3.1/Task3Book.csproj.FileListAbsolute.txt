@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\Task3Book\bin\Debug\netcoreapp3.1\Task3Book.exe
+C:\Users\Onur\source\repos\Task3Book\bin\Debug\netcoreapp3.1\Task3Book.deps.json
+C:\Users\Onur\source\repos\Task3Book\bin\Debug\netcoreapp3.1\Task3Book.runtimeconfig.json
+C:\Users\Onur\source\repos\Task3Book\bin\Debug\netcoreapp3.1\Task3Book.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\Task3Book\bin\Debug\netcoreapp3.1\Task3Book.dll
+C:\Users\Onur\source\repos\Task3Book\bin\Debug\netcoreapp3.1\Task3Book.pdb
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.AssemblyInfo.cs
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.dll
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.pdb
+C:\Users\Onur\source\repos\Task3Book\obj\Debug\netcoreapp3.1\Task3Book.genruntimeconfig.cache
